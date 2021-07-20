@@ -9,7 +9,7 @@ from lxml import html
 # https://discord.com/api/oauth2/authorize?client_id=866933457967513630&permissions=2147585024&scope=bot
 
 # Setting Up
-token = 'ODY2OTMzNDU3OTY3NTEzNjMw.YPZwsw.MFEC2UJt1rJ3wvFPYB1qxRDNIzo'
+token = '*** YOUR TOKEN ***'
 bot = commands.Bot(command_prefix='/')
 
 @bot.command()
